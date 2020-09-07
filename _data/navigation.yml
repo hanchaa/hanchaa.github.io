@@ -1,0 +1,12 @@
+# Site navigation links
+- title: "Dev Diary"
+  url: /dev/
+
+- title: Algorithm
+  url: /algorithm/
+
+#- title: BOJ
+#  url: /boj/
+
+- title: Tags
+  url: /tags/
